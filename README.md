@@ -1,5 +1,9 @@
 #### Core module of MetadataLang project
 
+This project is devoted to describing high-level logic declaratively in the programming code 
+and implementing the desired behavior of the system based on this code. 
+The Core module declaratively defines basic logic of programming languages using kotlin language.
+
 Commands for downloading and compiling the code in the empty directory:
 ```sh
 git clone https://github.com/alexn0/env.git
